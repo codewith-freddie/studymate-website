@@ -39,7 +39,7 @@ To view the website, simply open the `index.html` file in your preferred web bro
 ## 🚀 Demo
 
 Check out the live demo of the StudyMate website here:  
-[![Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github)](https://your-demo-url.com)
+[![Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github)](https://codewith-freddie.github.io/studymate-website/)
 
 ---
 ## 📁 Project Structure
