@@ -141,7 +141,7 @@ studymate-website/
 
 ## 📄 License
 
-This project is licensed under the MIT License. Feel free to use and modify it as you like! 😊
+This project has been submitted for copyright registration and is fully protected under copyright law. Unauthorized copying, modification, or distribution of this code is strictly prohibited without explicit permission from the author.
 
 ---
 
